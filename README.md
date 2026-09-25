@@ -1,2 +1,2 @@
 # MergeSort
-# Singly linked List
+# Singly Linked List
